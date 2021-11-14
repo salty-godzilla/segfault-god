@@ -9,9 +9,8 @@
 
 |Language||
 |:-:|:-:|
-|C#<br>★★☆☆☆|I've used C# since 1945|
-|Unity Engine<br>★★☆☆☆|I can make an asset flip game with tons of bugs|
-|C++ / C<br>★☆☆☆☆|I don't want to program in C++ / C|
+|C#<br>★★☆☆☆|MonoBehaviour is my friend|
+|C++ / C<br>★☆☆☆☆|segfault hell|
 |ASP.NET<br>★☆☆☆☆|I hate ASP.NET|
 |Java<br>★☆☆☆☆|I hate Oracle|
 |HTML5<br>★☆☆☆☆|\<MARQUEE\>SORRY JAPANESE ONLY\</MARQUEE\>|
