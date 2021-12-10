@@ -9,7 +9,7 @@
 
 |Language||
 |:-:|:-:|
-|C#<br>★★☆☆☆|MonoBehaviour is my friend|
+|C#<br>★★☆☆☆|MonoBehaviour is my best friend|
 |C++ / C<br>★☆☆☆☆|segfault hell|
 |ASP.NET<br>★☆☆☆☆|I hate ASP.NET|
 |Java<br>★☆☆☆☆|I hate Oracle|
